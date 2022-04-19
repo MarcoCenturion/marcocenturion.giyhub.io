@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
  Por una educación pública, gratuita, laica y copada.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://marcocenturion.github.io" # the base hostname & protocol for your site
-twitter_username: Taffyer 
-github_username:  wild-flame 
+twitter_username: Odiseo_Tortes 
+github_username:  marcocenturion 
 
 # Build settings
 markdown: kramdown
